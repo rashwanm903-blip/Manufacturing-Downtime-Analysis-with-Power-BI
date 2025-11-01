@@ -1,2 +1,2 @@
 # Manufacturing-Downtime-Analysis-with-Power-BI
-segments based on different attributes such as age, geographic location, purchase volume, frequency, and customer lifetime value (CLV).  The dashboard will help businesses to:  Identify the most profitable customer segments.  Understand different customer behaviors.
+This project analyzes production interruptions and machine failures across the manufacturing lifecycle. The dashboard leverages Power BI to pinpoint the root causes of downtime, track machine performance using OEE (Overall Equipment Effectiveness), and quantify the resulting financial losses. The goal is to help production managers to: Minimize unplanned operational stops and maximize asset utilization. Optimize preventive maintenance schedules.
